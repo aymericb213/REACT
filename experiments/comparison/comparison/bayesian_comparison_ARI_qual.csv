@@ -1,0 +1,7 @@
+conf 1,conf 2,P_left,P_rope,P_right
+"('tree', 'NPU')","('tree', 'CHAC_convex')",0.092365,0.422895,0.48474
+"('tree', 'NPU')","('tree', 'CHAC_rectangle')",0.0,0.093515,0.906485
+"('tree', 'NPU')","('tree', 'CHAC_proximity')",0.96793,0.0,0.03207
+"('tree', 'CHAC_convex')","('tree', 'CHAC_rectangle')",0.0,0.848245,0.151755
+"('tree', 'CHAC_convex')","('tree', 'CHAC_proximity')",0.611615,0.383685,0.0047
+"('tree', 'CHAC_rectangle')","('tree', 'CHAC_proximity')",0.25,0.75,0.0

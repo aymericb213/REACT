@@ -1,0 +1,16 @@
+conf 1,conf 2,P_left,P_rope,P_right
+"('tree', 'FFQS')","('tree', 'MMFFQS')",0.000105,0.99989,5e-06
+"('tree', 'FFQS')","('tree', 'NPU')",0.800545,0.18815,0.011305
+"('tree', 'FFQS')","('tree', 'CHAC_convex')",0.05963,0.876035,0.064335
+"('tree', 'FFQS')","('tree', 'CHAC_rectangle')",0.03897,0.867375,0.093655
+"('tree', 'FFQS')","('tree', 'CHAC_proximity')",0.00069,0.968865,0.030445
+"('tree', 'MMFFQS')","('tree', 'NPU')",0.69855,0.283395,0.018055
+"('tree', 'MMFFQS')","('tree', 'CHAC_convex')",0.01461,0.92193,0.06346
+"('tree', 'MMFFQS')","('tree', 'CHAC_rectangle')",0.010755,0.882255,0.10699
+"('tree', 'MMFFQS')","('tree', 'CHAC_proximity')",0.00173,0.853305,0.144965
+"('tree', 'NPU')","('tree', 'CHAC_convex')",0.0,0.75938,0.24062
+"('tree', 'NPU')","('tree', 'CHAC_rectangle')",0.0,0.925845,0.074155
+"('tree', 'NPU')","('tree', 'CHAC_proximity')",0.0,0.805245,0.194755
+"('tree', 'CHAC_convex')","('tree', 'CHAC_rectangle')",0.0,1.0,0.0
+"('tree', 'CHAC_convex')","('tree', 'CHAC_proximity')",0.0,1.0,0.0
+"('tree', 'CHAC_rectangle')","('tree', 'CHAC_proximity')",0.0,1.0,0.0

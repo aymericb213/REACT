@@ -1,6 +1,0 @@
-conf 1,conf 2,P_left,P_rope,P_right
-"('tree', 'NPU')","('tree', 'CHAC_convex')",0.5,0.0,0.5
-"('tree', 'NPU')","('tree', 'CHAC_rectangle')",0.546315,0.0,0.453685
-"('tree', 'NPU')","('tree', 'CHAC_proximity')",0.5,0.25,0.25
-"('tree', 'CHAC_convex')","('tree', 'CHAC_rectangle')",0.5,0.25,0.25
-"('tree', 'CHAC_convex')","('tree', 'CHAC_proximity')",0.5,0.25,0.25
