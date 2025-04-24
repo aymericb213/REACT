@@ -1,3 +1,5 @@
+[![Static Badge](https://img.shields.io/badge/DOI-10.1109/ICTAI62512.2024.00117-yellow)](10.1109/ICTAI62512.2024.00117)
+
 # REACT
 
 This repository contains the experimental setup, data, and plots used in the ICTAI'24 contribution
