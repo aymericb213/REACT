@@ -1,4 +1,4 @@
-[![Static Badge](https://img.shields.io/badge/DOI-10.1109/ICTAI62512.2024.00117-yellow)](10.1109/ICTAI62512.2024.00117)
+[![Static Badge](https://img.shields.io/badge/DOI-10.1109/ICTAI62512.2024.00117-yellow)](https://doi.org/10.1109/ICTAI62512.2024.00117)
 
 # REACT
 
